@@ -1,7 +1,4 @@
-## corddown team depelov
-
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ a one small org for depelov to engines and frameworks source code or source private
+## Info
+Corddown is a proyect open source  for Create Games and desktop Applications FREE yujuu
+## My proyects
+Corddown Only :9|  
